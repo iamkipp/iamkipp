@@ -1,4 +1,10 @@
-# Hi there, I'm Victor Kimutai! 👋
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;My+Name+Is+Victor+kimutai;I+Am+A+Software+Engineer)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+[![committers.top badge](https://user-badge.committers.top/kenya/iamkipp.svg)](https://user-badge.committers.top/kenya/iamkipp)
 
 ## 🌐 Socials
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iamkipp?s=11)
