@@ -44,3 +44,6 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamkipp&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkipp&layout=compact&theme=radical)
+
+### ✍️ Random Dev Quote
+![](https://wallpaperaccess.com/full/9619789.jpg)
